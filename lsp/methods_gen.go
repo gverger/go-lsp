@@ -382,7 +382,7 @@ func (m *Methods) executeCommandMethodInfo() *jsonrpc.MethodInfo {
 		return nil
 	}
 	return &jsonrpc.MethodInfo{
-		Name: "executeCommand",
+		Name: "workspace/executeCommand",
 		NewRequest: func() interface{} {
 			return &defines.ExecuteCommandParams{}
 		},
