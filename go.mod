@@ -1,6 +1,6 @@
-module github.com/TobiasYin/go-lsp
+module github.com/gverger/go-lsp
 
-go 1.17
+go 1.19
 
 require github.com/json-iterator/go v1.1.12
 

@@ -5,8 +5,8 @@ package lsp
 //	"context"
 //	"fmt"
 //
-//	"github.com/TobiasYin/go-lsp/jsonrpc"
-//	"github.com/TobiasYin/go-lsp/lsp/defines"
+//	"github.com/gverger/go-lsp/jsonrpc"
+//	"github.com/gverger/go-lsp/lsp/defines"
 //)
 //
 //type Methods struct {
